@@ -1,0 +1,1475 @@
+[INFO ]2023-12-1919:48:58.764[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-1919:49:01.532[main]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-1919:49:01.553[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:49:01.608[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:49:01.609[main]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-1919:49:01.646[main]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+[INFO ]2023-12-1919:49:01.985[main]utilities.LoggerLoad1)- Title of the pageOverview of Trees
+[INFO ]2023-12-1919:49:01.986[main]utilities.LoggerLoad1)-Rini after
+[INFO ]2023-12-1919:49:01.996[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-1919:49:02.017[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-1919:49:02.784[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:49:02.798[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:02.824[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:02.888[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:49:06.853[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:49:06.893[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:06.944[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:49:12.559[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:49:12.661[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:49:12.692[main]utilities.LoggerLoad1)-click Terminologies On tree page
+[INFO ]2023-12-1919:49:12.982[main]utilities.LoggerLoad1)- Title of the page Terminologies
+[INFO ]2023-12-1919:49:12.994[main]utilities.LoggerLoad1)-Title of current page is : Terminologies
+[INFO ]2023-12-1919:49:13.010[main]utilities.LoggerLoad1)-Title of current page is : Terminologies
+[INFO ]2023-12-1919:49:13.357[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:49:13.379[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:13.433[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:49:17.462[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:49:17.494[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:17.552[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:49:23.001[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:49:23.111[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:49:23.141[main]utilities.LoggerLoad1)-click Types of Trees On tree page
+[INFO ]2023-12-1919:49:23.755[main]utilities.LoggerLoad1)- Title of the page Types of Trees
+[INFO ]2023-12-1919:49:23.764[main]utilities.LoggerLoad1)-Title of current page is : Types of Trees
+[INFO ]2023-12-1919:49:23.777[main]utilities.LoggerLoad1)-Title of current page is : Types of Trees
+[INFO ]2023-12-1919:49:24.090[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:49:24.113[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:24.163[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:49:28.190[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:49:28.210[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:28.254[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:49:33.860[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:49:33.972[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:49:33.998[main]utilities.LoggerLoad1)-click Tree Traversals On tree page
+[INFO ]2023-12-1919:49:34.364[main]utilities.LoggerLoad1)- Title of the page Tree Traversals
+[INFO ]2023-12-1919:49:34.369[main]utilities.LoggerLoad1)-Title of current page is : Tree Traversals
+[INFO ]2023-12-1919:49:34.382[main]utilities.LoggerLoad1)-Title of current page is : Tree Traversals
+[INFO ]2023-12-1919:49:34.699[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:49:34.723[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:34.768[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:49:38.729[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:49:38.749[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:38.785[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:49:44.314[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:49:44.412[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:49:44.438[main]utilities.LoggerLoad1)-click Traversals-Illustration On tree page
+[INFO ]2023-12-1919:49:44.811[main]utilities.LoggerLoad1)- Title of the page Traversals-Illustration
+[INFO ]2023-12-1919:49:44.819[main]utilities.LoggerLoad1)-Title of current page is : Traversals-Illustration
+[INFO ]2023-12-1919:49:44.833[main]utilities.LoggerLoad1)-Title of current page is : Traversals-Illustration
+[INFO ]2023-12-1919:49:45.117[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:49:45.136[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:45.176[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:49:49.046[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:49:49.066[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:49.110[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:49:54.668[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:49:54.785[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:49:54.813[main]utilities.LoggerLoad1)-click Binary Trees On tree page
+[INFO ]2023-12-1919:49:55.148[main]utilities.LoggerLoad1)- Title of the page Binary Trees
+[INFO ]2023-12-1919:49:55.158[main]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-1919:49:55.168[main]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-1919:49:55.465[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:49:55.486[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:55.526[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:49:59.410[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:49:59.428[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:49:59.467[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:50:05.095[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:50:05.177[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:50:05.205[main]utilities.LoggerLoad1)-click Types of Binary Trees On tree page
+[INFO ]2023-12-1919:50:05.627[main]utilities.LoggerLoad1)- Title of the page Types of Binary Trees
+[INFO ]2023-12-1919:50:05.643[main]utilities.LoggerLoad1)-Title of current page is : Types of Binary Trees
+[INFO ]2023-12-1919:50:05.671[main]utilities.LoggerLoad1)-Title of current page is : Types of Binary Trees
+[INFO ]2023-12-1919:50:05.961[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:50:05.982[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:06.011[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:50:09.959[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:50:09.977[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:10.020[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:50:15.621[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:50:15.738[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:50:15.765[main]utilities.LoggerLoad1)-click Implementation in Python On tree page
+[INFO ]2023-12-1919:50:16.052[main]utilities.LoggerLoad1)- Title of the page Implementation in Python
+[INFO ]2023-12-1919:50:16.060[main]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-1919:50:16.072[main]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-1919:50:16.375[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:50:16.397[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:16.435[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:50:20.350[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:50:20.368[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:20.410[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:50:25.891[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:50:25.981[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:50:26.003[main]utilities.LoggerLoad1)-click Binary Tree Traversals On tree page
+[INFO ]2023-12-1919:50:26.378[main]utilities.LoggerLoad1)- Title of the page Binary Tree Traversals
+[INFO ]2023-12-1919:50:26.385[main]utilities.LoggerLoad1)-Title of current page is : Binary Tree Traversals
+[INFO ]2023-12-1919:50:26.399[main]utilities.LoggerLoad1)-Title of current page is : Binary Tree Traversals
+[INFO ]2023-12-1919:50:26.686[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:50:26.704[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:26.746[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:50:30.736[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:50:30.755[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:30.792[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:50:36.363[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:50:36.463[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:50:36.488[main]utilities.LoggerLoad1)-click Implementation of Binary Trees On tree page
+[INFO ]2023-12-1919:50:36.784[main]utilities.LoggerLoad1)- Title of the page Implementation of Binary Trees
+[INFO ]2023-12-1919:50:36.795[main]utilities.LoggerLoad1)-Title of current page is : Implementation of Binary Trees
+[INFO ]2023-12-1919:50:36.804[main]utilities.LoggerLoad1)-Title of current page is : Implementation of Binary Trees
+[INFO ]2023-12-1919:50:37.103[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:50:37.120[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:37.156[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:50:41.126[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:50:41.145[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:41.176[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:50:46.717[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:50:46.820[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:50:46.845[main]utilities.LoggerLoad1)-click Applications of Binary trees On tree page
+[INFO ]2023-12-1919:50:47.118[main]utilities.LoggerLoad1)- Title of the page Applications of Binary trees
+[INFO ]2023-12-1919:50:47.126[main]utilities.LoggerLoad1)-Title of current page is : Applications of Binary trees
+[INFO ]2023-12-1919:50:47.139[main]utilities.LoggerLoad1)-Title of current page is : Applications of Binary trees
+[INFO ]2023-12-1919:50:47.445[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:50:47.466[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:47.493[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:50:51.526[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:50:51.544[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:51.572[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:50:57.138[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:50:57.213[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:50:57.240[main]utilities.LoggerLoad1)-click Binary Search Trees On tree page
+[INFO ]2023-12-1919:50:57.955[main]utilities.LoggerLoad1)- Title of the page Binary Search Trees
+[INFO ]2023-12-1919:50:57.964[main]utilities.LoggerLoad1)-Title of current page is : Binary Search Trees
+[INFO ]2023-12-1919:50:57.977[main]utilities.LoggerLoad1)-Title of current page is : Binary Search Trees
+[INFO ]2023-12-1919:50:58.263[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:50:58.280[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:50:58.315[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:51:02.440[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:51:02.469[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:51:02.500[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:51:08.023[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:51:08.136[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:51:08.165[main]utilities.LoggerLoad1)-click Implementation Of BST On tree page
+[INFO ]2023-12-1919:51:08.516[main]utilities.LoggerLoad1)- Title of the page Implementation Of BST
+[INFO ]2023-12-1919:51:08.520[main]utilities.LoggerLoad1)-Title of current page is : Implementation Of BST
+[INFO ]2023-12-1919:51:08.533[main]utilities.LoggerLoad1)-Title of current page is : Implementation Of BST
+[INFO ]2023-12-1919:51:08.867[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:51:08.892[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:51:08.928[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:51:12.835[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:51:12.851[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-1919:51:12.885[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:51:18.480[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:51:18.590[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-1919:51:18.591[main]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-1919:51:18.616[main]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+[INFO ]2023-12-1919:51:18.833[main]utilities.LoggerLoad1)- Title of the pageOverview of Trees
+[INFO ]2023-12-1919:51:18.833[main]utilities.LoggerLoad1)-Rini after
+[INFO ]2023-12-1919:51:18.860[main]utilities.LoggerLoad1)-click Practice Questions On tree page
+[INFO ]2023-12-1919:51:19.057[main]utilities.LoggerLoad1)- Title of the page Practice Questions
+[INFO ]2023-12-1919:51:19.063[main]utilities.LoggerLoad1)-Title of current page is :Practice Questions
+[INFO ]2023-12-1919:51:19.063[main]utilities.LoggerLoad1)-No questions found 
+[INFO ]2023-12-1919:51:51.823[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-1919:51:54.677[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-1919:51:56.416[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-1919:51:58.171[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:51:59.280[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:52:06.374[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:52:07.487[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:52:12.989[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:52:17.434[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-1919:52:18.812[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:52:19.891[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:52:26.923[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:52:28.013[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:52:33.607[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:52:38.031[main]utilities.LoggerLoad1)-Title of current page is : Applications
+[INFO ]2023-12-1919:52:39.401[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-1919:52:40.487[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-1919:52:47.542[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-1919:52:48.629[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-1919:52:54.276[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-1919:52:58.640[main]utilities.LoggerLoad1)-The user is in Practice page
+[INFO ]2023-12-2117:31:08.701[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2117:31:11.034[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2117:31:12.374[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2117:31:13.978[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2117:31:15.091[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2117:31:22.118[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2117:31:23.199[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2117:31:28.658[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2117:31:33.019[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2117:31:34.366[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2117:31:35.466[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2117:31:42.509[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2117:31:43.598[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2117:31:49.183[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2117:31:53.572[main]utilities.LoggerLoad1)-Title of current page is : Applications
+[INFO ]2023-12-2117:31:54.894[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2117:31:55.984[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2117:32:03.018[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2117:32:04.098[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2117:32:09.691[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2117:32:14.084[main]utilities.LoggerLoad1)-The user is in Practice page
+[INFO ]2023-12-2117:33:58.161[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2117:34:00.548[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2117:34:01.894[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2117:34:03.505[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2117:34:04.596[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2117:34:11.655[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2117:34:12.755[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2117:34:19.355[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:20:24.928[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2119:20:27.666[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2119:20:29.162[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2119:20:30.910[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:20:32.084[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:20:39.433[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:20:40.617[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:20:46.097[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:20:50.778[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2119:20:52.231[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:20:53.399[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:21:00.718[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:21:01.874[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:21:07.558[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:21:12.247[main]utilities.LoggerLoad1)-Title of current page is : Applications
+[INFO ]2023-12-2119:21:13.757[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:21:14.873[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:21:22.143[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:21:23.304[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:21:28.966[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:21:33.433[main]utilities.LoggerLoad1)-The user is in Practice page
+[INFO ]2023-12-2119:21:35.141[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2119:21:37.721[main]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2119:21:37.741[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:21:37.802[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:21:37.804[main]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2119:21:37.906[main]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+[INFO ]2023-12-2119:21:38.356[main]utilities.LoggerLoad1)- Title of the pageOverview of Trees
+[INFO ]2023-12-2119:21:38.356[main]utilities.LoggerLoad1)-Rini after
+[INFO ]2023-12-2119:21:38.369[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-2119:21:38.405[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-2119:21:39.081[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:21:39.098[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:21:39.135[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:21:39.205[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:23:47.999[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2119:23:51.179[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2119:23:52.580[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2119:23:54.434[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:23:55.568[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:24:12.964[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:24:14.090[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:24:24.952[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:24:29.650[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2119:24:31.153[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:24:32.288[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:24:39.553[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:24:40.679[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:24:46.418[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:24:50.956[main]utilities.LoggerLoad1)-Title of current page is : Applications
+[INFO ]2023-12-2119:24:52.530[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:24:53.670[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:25:01.008[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:25:02.142[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:25:07.786[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:25:12.300[main]utilities.LoggerLoad1)-The user is in Practice page
+[INFO ]2023-12-2119:25:14.214[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2119:25:16.865[main]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2119:25:16.885[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:25:16.930[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:25:16.931[main]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2119:25:16.995[main]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+[INFO ]2023-12-2119:25:17.771[main]utilities.LoggerLoad1)- Title of the pageOverview of Trees
+[INFO ]2023-12-2119:25:17.772[main]utilities.LoggerLoad1)-Rini after
+[INFO ]2023-12-2119:25:17.799[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-2119:25:17.861[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-2119:25:18.475[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:25:18.489[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:25:18.523[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:25:18.592[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:27:47.188[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2119:27:50.233[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2119:27:51.673[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2119:27:53.456[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:27:54.579[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:28:11.832[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:28:12.953[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:28:26.080[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:28:30.869[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2119:28:32.360[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:28:33.529[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:28:40.782[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:28:41.866[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:28:47.526[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:28:52.016[main]utilities.LoggerLoad1)-Title of current page is : Applications
+[INFO ]2023-12-2119:28:53.442[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:28:54.546[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:29:01.763[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:29:02.884[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:29:08.573[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:29:13.058[main]utilities.LoggerLoad1)-The user is in Practice page
+[INFO ]2023-12-2119:29:15.008[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2119:29:17.679[main]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2119:29:17.698[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:29:17.747[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:29:17.748[main]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2119:29:17.813[main]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+[INFO ]2023-12-2119:29:18.519[main]utilities.LoggerLoad1)- Title of the pageOverview of Trees
+[INFO ]2023-12-2119:29:18.519[main]utilities.LoggerLoad1)-Rini after
+[INFO ]2023-12-2119:29:18.537[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-2119:29:18.565[main]utilities.LoggerLoad1)-Title of current page is : Overview of Trees
+[INFO ]2023-12-2119:29:19.119[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:29:19.134[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:29:19.160[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:29:19.230[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:29:23.322[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:29:23.368[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:29:23.441[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:29:39.092[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:29:39.269[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:29:39.304[main]utilities.LoggerLoad1)-click Terminologies On tree page
+[INFO ]2023-12-2119:29:39.644[main]utilities.LoggerLoad1)- Title of the page Terminologies
+[INFO ]2023-12-2119:29:39.652[main]utilities.LoggerLoad1)-Title of current page is : Terminologies
+[INFO ]2023-12-2119:29:39.673[main]utilities.LoggerLoad1)-Title of current page is : Terminologies
+[INFO ]2023-12-2119:29:40.017[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:29:40.040[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:29:40.084[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:29:54.138[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:29:54.192[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:29:54.281[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:30:09.932[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:30:10.112[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:30:10.183[main]utilities.LoggerLoad1)-click Types of Trees On tree page
+[INFO ]2023-12-2119:30:10.546[main]utilities.LoggerLoad1)- Title of the page Types of Trees
+[INFO ]2023-12-2119:30:10.555[main]utilities.LoggerLoad1)-Title of current page is : Types of Trees
+[INFO ]2023-12-2119:30:10.594[main]utilities.LoggerLoad1)-Title of current page is : Types of Trees
+[INFO ]2023-12-2119:30:10.959[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:30:10.997[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:30:11.072[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:30:25.364[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:30:25.397[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:30:25.464[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:30:41.111[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:30:41.447[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:30:41.489[main]utilities.LoggerLoad1)-click Tree Traversals On tree page
+[INFO ]2023-12-2119:30:41.829[main]utilities.LoggerLoad1)- Title of the page Tree Traversals
+[INFO ]2023-12-2119:30:41.839[main]utilities.LoggerLoad1)-Title of current page is : Tree Traversals
+[INFO ]2023-12-2119:30:41.879[main]utilities.LoggerLoad1)-Title of current page is : Tree Traversals
+[INFO ]2023-12-2119:30:42.480[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:30:42.513[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:30:42.583[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:30:46.469[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:30:46.608[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:30:46.694[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:30:52.329[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:30:52.512[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:30:52.577[main]utilities.LoggerLoad1)-click Traversals-Illustration On tree page
+[INFO ]2023-12-2119:30:53.028[main]utilities.LoggerLoad1)- Title of the page Traversals-Illustration
+[INFO ]2023-12-2119:30:53.046[main]utilities.LoggerLoad1)-Title of current page is : Traversals-Illustration
+[INFO ]2023-12-2119:30:53.087[main]utilities.LoggerLoad1)-Title of current page is : Traversals-Illustration
+[INFO ]2023-12-2119:30:53.448[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:30:53.480[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:30:53.550[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:30:57.824[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:30:57.863[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:30:57.936[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:31:03.549[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:31:03.716[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:31:03.800[main]utilities.LoggerLoad1)-click Binary Trees On tree page
+[INFO ]2023-12-2119:31:04.289[main]utilities.LoggerLoad1)- Title of the page Binary Trees
+[INFO ]2023-12-2119:31:04.304[main]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2119:31:04.342[main]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2119:31:04.728[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:31:04.774[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:04.849[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:31:09.156[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:31:09.187[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:09.260[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:31:14.898[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:31:14.974[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:31:15.012[main]utilities.LoggerLoad1)-click Types of Binary Trees On tree page
+[INFO ]2023-12-2119:31:15.486[main]utilities.LoggerLoad1)- Title of the page Types of Binary Trees
+[INFO ]2023-12-2119:31:15.496[main]utilities.LoggerLoad1)-Title of current page is : Types of Binary Trees
+[INFO ]2023-12-2119:31:15.517[main]utilities.LoggerLoad1)-Title of current page is : Types of Binary Trees
+[INFO ]2023-12-2119:31:15.848[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:31:15.879[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:15.921[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:31:19.921[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:31:19.954[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:20.000[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:31:25.632[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:31:25.809[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:31:25.876[main]utilities.LoggerLoad1)-click Implementation in Python On tree page
+[INFO ]2023-12-2119:31:26.248[main]utilities.LoggerLoad1)- Title of the page Implementation in Python
+[INFO ]2023-12-2119:31:26.258[main]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2119:31:26.279[main]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2119:31:26.534[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:31:26.565[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:26.619[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:31:30.929[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:31:30.964[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:31.033[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:31:36.656[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:31:36.833[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:31:36.923[main]utilities.LoggerLoad1)-click Binary Tree Traversals On tree page
+[INFO ]2023-12-2119:31:37.312[main]utilities.LoggerLoad1)- Title of the page Binary Tree Traversals
+[INFO ]2023-12-2119:31:37.328[main]utilities.LoggerLoad1)-Title of current page is : Binary Tree Traversals
+[INFO ]2023-12-2119:31:37.372[main]utilities.LoggerLoad1)-Title of current page is : Binary Tree Traversals
+[INFO ]2023-12-2119:31:37.707[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:31:37.740[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:37.817[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:31:42.111[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:31:42.153[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:42.215[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:31:47.888[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:31:48.047[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:31:48.108[main]utilities.LoggerLoad1)-click Implementation of Binary Trees On tree page
+[INFO ]2023-12-2119:31:48.532[main]utilities.LoggerLoad1)- Title of the page Implementation of Binary Trees
+[INFO ]2023-12-2119:31:48.550[main]utilities.LoggerLoad1)-Title of current page is : Implementation of Binary Trees
+[INFO ]2023-12-2119:31:48.582[main]utilities.LoggerLoad1)-Title of current page is : Implementation of Binary Trees
+[INFO ]2023-12-2119:31:48.978[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:31:49.034[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:49.100[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:31:53.359[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:31:53.409[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:31:53.465[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:31:59.102[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:31:59.267[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:31:59.351[main]utilities.LoggerLoad1)-click Applications of Binary trees On tree page
+[INFO ]2023-12-2119:31:59.804[main]utilities.LoggerLoad1)- Title of the page Applications of Binary trees
+[INFO ]2023-12-2119:31:59.821[main]utilities.LoggerLoad1)-Title of current page is : Applications of Binary trees
+[INFO ]2023-12-2119:31:59.853[main]utilities.LoggerLoad1)-Title of current page is : Applications of Binary trees
+[INFO ]2023-12-2119:32:00.280[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:32:00.332[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:32:00.437[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:32:04.684[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:32:04.721[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:32:04.781[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:32:10.414[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:32:10.597[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:32:10.682[main]utilities.LoggerLoad1)-click Binary Search Trees On tree page
+[INFO ]2023-12-2119:32:11.516[main]utilities.LoggerLoad1)- Title of the page Binary Search Trees
+[INFO ]2023-12-2119:32:11.534[main]utilities.LoggerLoad1)-Title of current page is : Binary Search Trees
+[INFO ]2023-12-2119:32:11.572[main]utilities.LoggerLoad1)-Title of current page is : Binary Search Trees
+[INFO ]2023-12-2119:32:11.935[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:32:11.961[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:32:12.011[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:32:16.201[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:32:16.234[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:32:16.294[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:32:21.948[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:32:22.131[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:32:22.179[main]utilities.LoggerLoad1)-click Implementation Of BST On tree page
+[INFO ]2023-12-2119:32:22.530[main]utilities.LoggerLoad1)- Title of the page Implementation Of BST
+[INFO ]2023-12-2119:32:22.549[main]utilities.LoggerLoad1)-Title of current page is : Implementation Of BST
+[INFO ]2023-12-2119:32:22.575[main]utilities.LoggerLoad1)-Title of current page is : Implementation Of BST
+[INFO ]2023-12-2119:32:22.950[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2119:32:22.980[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:32:23.036[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2119:32:27.410[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2119:32:27.456[main]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2119:32:27.547[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2119:32:33.178[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2119:32:33.350[main]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2119:32:33.351[main]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2119:32:33.410[main]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+[INFO ]2023-12-2119:32:33.739[main]utilities.LoggerLoad1)- Title of the pageOverview of Trees
+[INFO ]2023-12-2119:32:33.739[main]utilities.LoggerLoad1)-Rini after
+[INFO ]2023-12-2119:32:33.811[main]utilities.LoggerLoad1)-click Practice Questions On tree page
+[INFO ]2023-12-2119:32:34.218[main]utilities.LoggerLoad1)- Title of the page Practice Questions
+[INFO ]2023-12-2119:32:34.236[main]utilities.LoggerLoad1)-Title of current page is :Practice Questions
+[INFO ]2023-12-2119:32:34.237[main]utilities.LoggerLoad1)-No questions found 
+[INFO ]2023-12-2120:00:00.446[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2120:00:03.016[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2120:00:04.494[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2120:00:06.177[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2120:00:07.328[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2120:00:14.767[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2120:00:15.919[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2120:00:21.648[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2120:00:26.298[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2120:00:27.793[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2120:00:28.916[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2120:00:36.225[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2120:00:37.363[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2120:00:43.040[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2122:12:56.869[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:12:56.869[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:12:56.869[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:12:56.869[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[ERROR]2023-12-2122:12:56.862[TestNG-PoolService-1]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet1.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.StackSD.the_user_enters_invalid_python_code_in_editor_from_sheet_and(StackSD.java:118) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[ERROR]2023-12-2122:12:56.862[TestNG-PoolService-0]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet2.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.StackSD.the_user_enters_invalid_python_code_in_editor_from_sheet_and(StackSD.java:118) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ]2023-12-2122:12:58.918[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:12:58.919[TestNG-PoolService-1]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:12:58.924[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:12:58.939[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:12:58.953[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:12:58.969[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:12:58.993[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:12:59.008[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:12:59.021[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:12:59.047[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:12:59.082[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:12:59.084[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:12:59.090[TestNG-PoolService-2]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:12:59.133[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:12:59.165[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:12:59.927[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:12:59.933[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:12:59.937[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:12:59.942[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:12:59.955[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Login
+[ERROR]2023-12-2122:13:00.009[TestNG-PoolService-0]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet2.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.Trees_SD.the_user_gets_invalid_input_from_sheet_and_in_trees(Trees_SD.java:137) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ]2023-12-2122:13:00.018[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:00.221[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:13:00.227[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:13:00.240[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:13:00.298[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:00.314[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:00.352[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:13:00.487[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:13:00.509[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:13:00.563[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:00.575[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:13:00.586[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:00.594[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:13:00.683[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:13:00.688[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:13:00.744[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:00.801[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:13:00.820[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:01.262[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:13:01.356[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:13:01.382[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:13:01.453[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:01.456[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:13:01.475[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:13:01.499[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:01.888[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:13:01.965[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:02.018[TestNG-PoolService-6]utilities.LoggerLoad1)-click Implementation in Python On tree page
+[INFO ]2023-12-2122:13:02.023[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:13:02.033[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:13:02.041[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:13:02.065[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:13:02.077[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:13:02.153[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:02.364[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:13:02.439[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:02.711[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:13:02.754[TestNG-PoolService-6]utilities.LoggerLoad1)- Title of the page Implementation in Python
+[INFO ]2023-12-2122:13:02.762[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Implementation in Python
+[INFO ]2023-12-2122:13:02.786[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Implementation in Python
+[INFO ]2023-12-2122:13:02.806[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:13:02.821[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:13:02.832[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:02.839[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:13:02.854[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:02.872[TestNG-PoolService-2]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2122:13:03.648[TestNG-PoolService-4]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:13:03.705[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:13:03.716[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:13:03.787[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:03.806[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:13:03.815[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:13:03.826[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:13:03.835[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:13:03.869[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:04.415[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:13:04.420[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:13:04.428[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:13:04.471[TestNG-PoolService-2]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:04.787[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:13:04.813[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:13:04.826[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:13:04.850[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:13:05.710[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:13:05.711[TestNG-PoolService-7]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:13:07.076[TestNG-PoolService-0]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:13:07.997[TestNG-PoolService-5]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:13:09.019[TestNG-PoolService-3]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:15:16.461[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:16.461[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:16.461[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:16.461[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:16.461[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:16.461[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:17.775[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:15:17.793[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:15:17.807[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:15:17.824[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:15:17.830[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:15:17.870[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:15:17.871[TestNG-PoolService-3]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:15:17.890[TestNG-PoolService-2]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:15:17.897[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:17.898[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:15:17.904[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:17.912[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:15:17.924[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:15:18.027[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:18.785[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:18.796[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:18.807[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:15:18.821[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:15:18.875[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:18.886[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:18.894[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:18.902[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:18.960[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:18.992[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:19.101[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:15:19.112[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:15:19.195[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:19.203[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:19.266[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[ERROR]2023-12-2122:15:19.274[TestNG-PoolService-4]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet1.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.Trees_SD.the_user_gets_invalid_input_from_sheet_and_in_trees(Trees_SD.java:137) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ]2023-12-2122:15:19.348[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:15:19.353[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:15:19.358[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:19.365[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:15:19.414[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:19.425[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:19.913[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:15:19.918[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:15:20.063[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:15:20.131[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:20.136[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:15:20.151[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:15:20.205[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:20.509[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:15:20.516[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:15:20.521[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:15:20.567[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:20.582[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:20.631[TestNG-PoolService-5]utilities.LoggerLoad1)-click Implementation in Python On tree page
+[INFO ]2023-12-2122:15:20.637[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:15:20.642[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:15:20.648[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:15:20.652[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:15:20.707[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:20.715[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:21.037[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:15:21.049[TestNG-PoolService-5]utilities.LoggerLoad1)- Title of the page Implementation in Python
+[INFO ]2023-12-2122:15:21.078[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:15:21.088[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:15:21.111[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Implementation in Python
+[INFO ]2023-12-2122:15:21.190[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:21.509[TestNG-PoolService-2]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2122:15:21.940[TestNG-PoolService-6]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:15:21.950[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:15:21.996[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:15:22.013[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:22.054[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:15:22.473[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:15:23.422[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:15:23.461[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:23.596[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:15:23.620[TestNG-PoolService-2]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:24.180[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:15:24.516[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:15:24.953[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:15:24.992[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:25.126[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:15:25.226[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:15:25.640[TestNG-PoolService-1]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:15:25.658[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:15:25.713[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:15:25.793[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:15:25.800[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:15:25.800[TestNG-PoolService-5]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:15:25.848[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:15:25.859[TestNG-PoolService-5]utilities.LoggerLoad1)-click Overview of Trees On Trees page
+[INFO ]2023-12-2122:15:26.365[TestNG-PoolService-5]utilities.LoggerLoad1)- Title of the pageOverview of Trees
+[INFO ]2023-12-2122:15:26.366[TestNG-PoolService-5]utilities.LoggerLoad1)-Rini after
+[INFO ]2023-12-2122:15:26.420[TestNG-PoolService-5]utilities.LoggerLoad1)-click Practice Questions On tree page
+[INFO ]2023-12-2122:15:26.621[TestNG-PoolService-5]utilities.LoggerLoad1)- Title of the page Practice Questions
+[INFO ]2023-12-2122:15:26.633[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Practice Questions
+[INFO ]2023-12-2122:15:26.633[TestNG-PoolService-5]utilities.LoggerLoad1)-No questions found 
+[INFO ]2023-12-2122:17:47.375[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:17:50.090[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2122:17:51.730[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2122:17:53.557[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:17:54.667[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:21:49.234[TestNG-test=Sanity-1]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:21:51.873[TestNG-test=Sanity-1]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2122:21:53.642[TestNG-test=Sanity-1]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2122:21:54.766[TestNG-test=Sanity-1]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:21:55.915[TestNG-test=Sanity-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:27.491[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:27.492[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:27.492[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:27.492[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:27.492[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[ERROR]2023-12-2122:27:27.486[TestNG-PoolService-5]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet2.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.StackSD.the_user_enters_valid_python_code_in_editor_from_sheet_and(StackSD.java:89) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ]2023-12-2122:27:28.974[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:27:28.993[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:27:29.005[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:27:29.013[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:27:29.022[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:27:29.053[TestNG-PoolService-2]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:27:29.067[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:27:29.079[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:29.097[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:29.105[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:27:29.106[TestNG-PoolService-5]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:27:29.117[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:27:29.133[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:27:29.219[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:29.937[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:29.973[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:29.990[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:30.021[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:30.052[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:30.073[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:30.078[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:30.168[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:30.221[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:30.242[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:30.302[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:30.312[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:30.367[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:30.400[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:30.409[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:30.444[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:30.457[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:30.502[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:30.506[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:30.509[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:27:30.561[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:30.568[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:30.583[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:27:31.069[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:27:31.129[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:27:31.144[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:27:31.207[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:31.246[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:31.519[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:27:31.611[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:27:31.618[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:27:31.645[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:27:31.732[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:31.738[TestNG-PoolService-9]utilities.LoggerLoad1)-click Implementation in Python On tree page
+[INFO ]2023-12-2122:27:31.756[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:27:31.785[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:27:31.794[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:27:31.852[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:27:31.899[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:31.910[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:27:31.934[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:32.247[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:27:32.276[TestNG-PoolService-9]utilities.LoggerLoad1)- Title of the page Implementation in Python
+[INFO ]2023-12-2122:27:32.326[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Implementation in Python
+[INFO ]2023-12-2122:27:32.341[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:27:32.365[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Implementation in Python
+[INFO ]2023-12-2122:27:32.393[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:32.426[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:32.516[TestNG-PoolService-2]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2122:27:33.188[TestNG-PoolService-1]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:27:33.200[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:27:33.208[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:27:33.213[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:27:33.223[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:27:33.285[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:33.308[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:27:33.336[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:27:33.369[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:33.894[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:27:33.909[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:27:33.956[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:27:33.969[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:33.995[TestNG-PoolService-2]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:34.338[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:27:34.541[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:27:34.751[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:27:34.785[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:27:35.223[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:27:35.273[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:27:36.109[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:27:36.109[TestNG-PoolService-0]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:27:36.833[TestNG-PoolService-3]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:28:05.944[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:28:05.944[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:28:05.944[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[ERROR]2023-12-2122:28:05.943[TestNG-PoolService-4]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet2.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.StackSD.the_user_enters_valid_python_code_in_editor_from_sheet_and(StackSD.java:89) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[ERROR]2023-12-2122:28:05.943[TestNG-PoolService-5]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet1.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.StackSD.the_user_enters_valid_python_code_in_editor_from_sheet_and(StackSD.java:89) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[ERROR]2023-12-2122:28:05.943[TestNG-PoolService-1]org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller1)-Cannot write: /xl/worksheets/sheet2.xml: in ZIP
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.fill(InflaterInputStreamWithStatistics.java:51) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at org.apache.commons.compress.archivers.zip.InflaterInputStreamWithStatistics.read(InflaterInputStreamWithStatistics.java:76) ~[commons-compress-1.25.0.jar:1.25.0]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:119) ~[?:?]
+	at org.apache.poi.openxml4j.util.ZipArchiveThresholdInputStream.read(ZipArchiveThresholdInputStream.java:78) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:413) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.util.IOUtils.copy(IOUtils.java:392) ~[poi-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.ZipPartMarshaller.marshall(ZipPartMarshaller.java:89) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackagePart.save(ZipPackagePart.java:127) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.internal.marshallers.DefaultMarshaller.marshall(DefaultMarshaller.java:46) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:629) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1532) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1519) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.ZipPackage.closeImpl(ZipPackage.java:515) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.openxml4j.opc.OPCPackage.close(OPCPackage.java:502) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.ooxml.POIXMLDocument.close(POIXMLDocument.java:189) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at org.apache.poi.xssf.usermodel.XSSFWorkbook.close(XSSFWorkbook.java:640) ~[poi-ooxml-5.2.5.jar:5.2.5]
+	at utilities.ExcelReader.getData(ExcelReader.java:26) ~[test-classes/:?]
+	at Step_definition.StackSD.the_user_enters_invalid_python_code_in_editor_from_sheet_and(StackSD.java:118) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:80) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:17) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[INFO ]2023-12-2122:28:07.346[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:28:07.357[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:28:07.379[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:28:07.412[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:28:07.413[TestNG-PoolService-5]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:28:07.420[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:28:07.437[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:28:07.461[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:28:07.466[TestNG-PoolService-2]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:28:07.469[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:28:07.477[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:28:07.490[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:28:07.491[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:28:07.494[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:28:07.570[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:28:08.334[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:28:08.341[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:28:08.348[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:28:08.357[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:28:08.412[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:28:08.428[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:28:08.431[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:28:08.564[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:28:08.572[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:28:08.747[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:28:08.921[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:34:59.911[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:34:59.911[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:34:59.911[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:34:59.911[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:34:59.911[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:34:59.911[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:00.946[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:35:00.947[TestNG-PoolService-7]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:35:00.977[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:35:01.012[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:35:01.058[TestNG-PoolService-3]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:35:01.065[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:01.904[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:35:01.909[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:01.915[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:01.920[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:35:01.932[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:35:01.933[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:01.940[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:01.949[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:35:01.984[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:02.011[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:02.022[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:02.070[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:02.184[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:35:02.188[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:02.225[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:02.240[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:35:02.272[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:02.302[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:02.308[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:35:02.371[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:02.405[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:02.408[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:35:02.894[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:35:02.901[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:35:02.963[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:02.971[TestNG-PoolService-2]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:03.335[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:35:03.342[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:35:03.354[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:35:03.376[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:35:03.411[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:35:03.420[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:03.439[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:03.444[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:35:03.482[TestNG-PoolService-9]utilities.LoggerLoad1)-click Binary Trees On tree page
+[INFO ]2023-12-2122:35:03.516[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:35:03.522[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:35:03.565[TestNG-PoolService-7]utilities.LoggerLoad1)-click Types of Binary Trees On tree page
+[INFO ]2023-12-2122:35:03.579[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:35:03.584[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:03.592[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:04.094[TestNG-PoolService-9]utilities.LoggerLoad1)- Title of the page Binary Trees
+[INFO ]2023-12-2122:35:04.102[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2122:35:04.109[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Binary Trees
+[INFO ]2023-12-2122:35:04.121[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2122:35:04.144[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Binary Trees
+[INFO ]2023-12-2122:35:04.170[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2122:35:04.185[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:04.190[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2122:35:04.205[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:04.265[TestNG-PoolService-3]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2122:35:04.967[TestNG-PoolService-7]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:35:05.010[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:35:05.070[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:35:05.107[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:35:05.143[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:35:05.168[TestNG-PoolService-2]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:05.172[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:05.352[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:35:05.894[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:35:05.941[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:06.278[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:35:06.319[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:07.399[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:35:07.853[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:35:07.901[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:08.166[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Binary Trees
+[INFO ]2023-12-2122:35:08.238[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:08.595[TestNG-PoolService-6]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:35:08.606[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:35:08.611[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:35:08.720[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Binary Trees
+[INFO ]2023-12-2122:35:08.738[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Binary Trees
+[INFO ]2023-12-2122:35:08.767[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:08.773[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2122:35:08.787[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:09.061[TestNG-PoolService-2]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:35:09.181[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2122:35:09.191[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Binary Trees
+[INFO ]2023-12-2122:35:09.206[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Binary Trees
+[INFO ]2023-12-2122:35:09.251[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:35:09.257[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:35:09.269[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : Binary Trees
+[INFO ]2023-12-2122:35:09.270[TestNG-PoolService-1]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:35:09.548[TestNG-PoolService-8]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:35:13.168[TestNG-PoolService-4]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:36:48.783[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:48.783[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:48.783[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:48.783[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:48.783[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:48.783[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:50.098[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:36:50.099[TestNG-PoolService-3]utilities.LoggerLoad1)-Rini before
+[INFO ]2023-12-2122:36:50.106[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:36:50.114[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:36:50.121[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:36:50.134[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:36:50.141[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:36:50.156[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:36:50.182[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : 
+[INFO ]2023-12-2122:36:50.189[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :
+[INFO ]2023-12-2122:36:50.217[TestNG-PoolService-2]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:36:50.244[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:50.282[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:50.289[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:50.291[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:51.081[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:36:51.086[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:36:51.091[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:36:51.096[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:36:51.105[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:36:51.145[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:51.152[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:51.281[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:36:51.287[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:36:51.300[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:36:51.337[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:51.341[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:51.455[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:36:51.552[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:36:51.558[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:36:51.562[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:36:51.591[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Login
+[INFO ]2023-12-2122:36:51.622[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:51.625[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:51.638[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Login
+[INFO ]2023-12-2122:36:51.701[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:52.137[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:36:52.144[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:36:52.220[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:52.254[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : NumpyNinja
+[INFO ]2023-12-2122:36:52.260[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :NumpyNinja
+[INFO ]2023-12-2122:36:52.338[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:52.838[TestNG-PoolService-1]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:36:52.909[TestNG-PoolService-1]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:52.939[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:36:52.952[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:36:52.962[TestNG-PoolService-3]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:36:52.967[TestNG-PoolService-9]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:36:52.973[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:36:53.031[TestNG-PoolService-9]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:53.037[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Tree
+[INFO ]2023-12-2122:36:53.045[TestNG-PoolService-3]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:53.076[TestNG-PoolService-5]utilities.LoggerLoad1)-click Implementation in Python On tree page
+[INFO ]2023-12-2122:36:53.085[TestNG-PoolService-0]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:36:53.118[TestNG-PoolService-4]utilities.LoggerLoad1)-click Binary Tree Traversals On tree page
+[INFO ]2023-12-2122:36:53.148[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Tree
+[INFO ]2023-12-2122:36:53.154[TestNG-PoolService-0]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:53.488[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:36:53.523[TestNG-PoolService-5]utilities.LoggerLoad1)- Title of the page Implementation in Python
+[INFO ]2023-12-2122:36:53.552[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:36:53.556[TestNG-PoolService-7]utilities.LoggerLoad1)-Title of current page is :Implementation in Python
+[INFO ]2023-12-2122:36:53.566[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:36:53.571[TestNG-PoolService-8]utilities.LoggerLoad1)-Title of current page is :Implementation in Python
+[INFO ]2023-12-2122:36:53.626[TestNG-PoolService-7]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:53.632[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:36:53.635[TestNG-PoolService-8]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:53.638[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Implementation in Python
+[INFO ]2023-12-2122:36:53.826[TestNG-PoolService-2]utilities.LoggerLoad1)-User redirected to Tree Data Structure Page 
+[INFO ]2023-12-2122:36:54.419[TestNG-PoolService-4]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:36:54.462[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:36:54.518[TestNG-PoolService-4]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:36:54.525[TestNG-PoolService-6]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:36:54.534[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:36:54.567[TestNG-PoolService-4]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:54.572[TestNG-PoolService-6]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:36:54.922[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is : Assessment
+[INFO ]2023-12-2122:36:55.429[TestNG-PoolService-5]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:36:55.476[TestNG-PoolService-5]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:36:55.776[TestNG-PoolService-2]utilities.LoggerLoad1)-Title of current page is :Assessment
+[INFO ]2023-12-2122:36:55.816[TestNG-PoolService-2]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:37:26.208[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:37:28.871[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2122:37:30.354[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2122:37:32.151[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:37:33.265[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:37:40.280[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:37:41.380[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:37:46.905[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2122:37:51.342[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2122:37:52.766[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:37:53.847[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:37:58.599[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:38:01.740[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:44:52.836[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2122:44:55.546[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2122:44:57.372[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2122:44:59.124[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:45:00.216[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2122:45:12.436[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2122:45:13.543[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2122:45:29.091[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2122:45:33.531[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2122:45:35.044[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2122:45:36.142[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2214:24:57.322[main]utilities.LoggerLoad1)-User Enter username as " arshsquashers@gmail.com "and Password as " Welcome12#" 
+[INFO ]2023-12-2214:24:59.710[main]utilities.LoggerLoad1)-Title of current page is : Stack
+[INFO ]2023-12-2214:25:01.051[main]utilities.LoggerLoad1)-Title of current page is : Operations in Stack
+[INFO ]2023-12-2214:25:02.584[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2214:25:03.700[main]utilities.LoggerLoad1)-User types python code as :print("hello");
+[INFO ]2023-12-2214:25:10.652[main]utilities.LoggerLoad1)-User clicks Try here Button again
+[INFO ]2023-12-2214:25:11.748[main]utilities.LoggerLoad1)-User types python code as :hello
+[INFO ]2023-12-2214:25:17.230[main]utilities.LoggerLoad1)-Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ]2023-12-2214:25:21.825[main]utilities.LoggerLoad1)-Title of current page is : Implementation
+[INFO ]2023-12-2214:25:23.187[main]utilities.LoggerLoad1)-User clicks Try here Button
+[INFO ]2023-12-2214:25:24.292[main]utilities.LoggerLoad1)-User types python code as :print("hello");
